@@ -2,7 +2,7 @@ package com.airtribe.learning.constants;
 
 public class MenuOptions {
 
-    // -------- com.airtribe.learning.ui.Main Menu --------
+    // -------- com.airtribe.learning.Main Menu --------
     public static final int STUDENT_MANAGEMENT = 1;
     public static final int COURSE_MANAGEMENT = 2;
     public static final int ENROLLMENT_MANAGEMENT = 3;

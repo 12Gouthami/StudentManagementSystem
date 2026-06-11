@@ -12,7 +12,7 @@ public class AppConstant {
     public static final String INVALID_NUMBER = "Invalid input. Please enter a valid number.";
 
     // ---------- Menu Titles ----------
-    public static final String MAIN_MENU_TITLE = "===== LearnTrack com.airtribe.learning.ui.Main Menu =====";
+    public static final String MAIN_MENU_TITLE = "===== LearnTrack com.airtribe.learning.Main Menu =====";
     public static final String STUDENT_MENU_TITLE = "--- Student Management ---";
     public static final String COURSE_MENU_TITLE = "--- Course Management ---";
     public static final String ENROLLMENT_MENU_TITLE = "--- Enrollment Management ---";
